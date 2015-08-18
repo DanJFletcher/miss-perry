@@ -1,18 +1,18 @@
 .girly {
-	color: #CE0069;
+	color: yellow; /* #CE0069; */
 	font-family: 'Damion', cursive;
-	font-weight: 800;
+	font-weight: 200;
 }
 
 .jumbotron {
-	color: #CE0069;
+	color: yellow;
 	margin-bottom: 0;
+	background-image: url('../images/3591546005_d32bde39e8_b.jpg');
+	background-size: cover;
 }
 
 .navbar {
 	height: 50px;
-	border-top: 10px solid black;
-	border-radius: none;
 }
 
 .icon {
