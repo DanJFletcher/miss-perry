@@ -11,6 +11,8 @@
 
 .navbar {
 	height: 50px;
+	border-top: 10px solid black;
+	border-radius: none;
 }
 
 .icon {
